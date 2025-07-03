@@ -684,7 +684,7 @@ Product_ID,Product_Name,Catagory,Supplier_ID,Supplier_Name,Stock_Quantity,Reorde
 56-657-4387,White Bread,Bakery,78-629-7560,Meevee,61,77,45,$2.50 ,3/21/2024,2/29/2024,6/22/2024,5 Lyons Street,51,48,Backordered
 05-720-8792,Carrot,Fruits & Vegetables,33-265-4588,Linkbridge,80,91,36,$1.50 ,3/24/2024,7/8/2024,10/26/2024,2 Northview Avenue,81,74,Active
 84-151-2114,Brown Rice,Grains & Pulses,79-704-1471,Avamm,39,57,54,$2.50 ,12/6/2024,3/6/2024,8/11/2024,12 Rigney Street,77,32,Active
-10-378-9729,Cabbage,,83-941-9620,Rooxo,69,21,68,$66.55 ,12/23/2024,11/26/2024,9/21/2024,2 Butterfield Pass,36,35,Discontinued
+10-378-9729,Cabbage,Fruits & Vegetables,83-941-9620,Rooxo,69,21,68,$66.55 ,12/23/2024,11/26/2024,9/21/2024,2 Butterfield Pass,36,35,Discontinued
 53-930-2215,Egg (Goose),Dairy,42-210-6541,Gabvine,60,43,32,$2.50 ,7/5/2024,10/4/2024,7/9/2024,292 Utah Street,77,60,Active
 02-034-6209,Sour Cream,Dairy,34-724-1913,Yodel,22,43,3,$4.10 ,2/1/2025,7/26/2024,10/8/2024,96 Brown Drive,45,87,Backordered
 28-003-8065,Almond Flour,Grains & Pulses,42-579-7177,Voonte,79,47,51,$9.50 ,7/19/2024,2/16/2025,1/28/2025,65 Merry Circle,83,69,Discontinued
